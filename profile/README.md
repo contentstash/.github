@@ -6,4 +6,4 @@ ContentStash provides a flexible and customizable CMS experience for developers,
 
 Explore our repositories to get started:
 - **[contentstash/contentstash](https://github.com/contentstash/contentstash)**: The monorepo containing all core functionalities, modules, and setup instructions
-- **[contentstash/starter](https://github.com/contentstash/starter)**: Quickly start your own project with a ready-to-deploy setup
+- **[contentstash/starter](https://github.com/contentstash/starter)**: Quickly start your own project with a ready-to-deploy setup (coming soon)
